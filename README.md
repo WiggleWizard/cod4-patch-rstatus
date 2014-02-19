@@ -24,3 +24,6 @@ Binary takes 1 parameter. The last parameter of the command should be the path t
 | 0x001305E2 | 0x14 | 0x15 |
  --------------------------
 ```
+
+## Bugs
+No existing issues are created when this patch has been applied. No bugs exist within the patcher either.
