@@ -1,10 +1,8 @@
 /* 
  * File:   main.c
  * Author: Terence-Lee "Zinglish" Davis
- *
- * Description:
- * ----------------------------------------------------------------------------
- * When CoD4 Server
+ * Bug found by Terence-Lee "Zinglish" Davis
+ * Patch by Terence-Lee "Zinglish" Davis
  * 
  * Created on 19 February 2014, 15:53
  */
