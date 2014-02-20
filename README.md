@@ -10,10 +10,10 @@ It's caused by a short buffer within CoD4 Server. The buffer is `1044` bytes lon
 You can use this patch by either:
   * Compile by running `make` in the root of the repo  
     -OR-
-  * Download the ELF that's already precompiled for x64 Debian flavours of Linux.  
+  * [Download](https://github.com/Zinglish/cod4-patch-rstatus/blob/master/cod4-patch-rstatus-deb-x64?raw=true) the ELF that's already precompiled for x64 Debian flavours of Linux.  
 
 ##### Usage
-Binary takes 1 parameter. The last parameter of the command should be the path to the CoD4 Server binary you wish to patch. EG: `cod4-patch-rstatus cod4-server-linded`.
+Binary takes 1 parameter. The last parameter of the command should be the path to the CoD4 Server binary you wish to patch. EG: `cod4-patch-rstatus-deb-x64 cod4-server-linded`.
 
 ### Patching details
 This patcher hard patches the short byte inside the ELF.
